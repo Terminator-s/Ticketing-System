@@ -2754,14 +2754,14 @@ ul {
 .search_your_country .feature_icon_1 {
   position: absolute;
   left: 10%;
-  top: 32%;
+  top: 26%;
 }
 
 /* line 124, /Applications/MAMP/htdocs/palash/cl/july 2019/189 travel/189 travel html/sass/_search.scss */
 .search_your_country .feature_icon_2 {
   position: absolute;
   right: 10%;
-  bottom: 5%;
+  bottom: 26%;
 }
 
 /**************** service_part css start ****************/
@@ -2775,21 +2775,21 @@ ul {
 .feature_part .feature_icon_1 {
   position: absolute;
   left: 10%;
-  top: 26%;
+  top: 42%;
 }
 
 /* line 11, /Applications/MAMP/htdocs/palash/cl/july 2019/189 travel/189 travel html/sass/_feature_part.scss */
 .feature_part .feature_icon_2 {
   position: absolute;
-  right: 10%;
-  bottom: 26%;
+  right: 7%;
+  bottom: 22%;
 }
 
 /* line 16, /Applications/MAMP/htdocs/palash/cl/july 2019/189 travel/189 travel html/sass/_feature_part.scss */
 .feature_part .feature_icon_3 {
   position: absolute;
   right: 40%;
-  bottom: 40%;
+  bottom: 53%;
 }
 
 @media (max-width: 576px) {
